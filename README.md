@@ -4,6 +4,6 @@ My name is Fernando Silva from Brazil, I'm a Fullstack developer using ReactJS, 
 
 Would you like to find me?
 
-[![Site Badge](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fwww.fdoors.com.br)](https://fdoors.com.br/)
+[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://fdoors.com.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoors)](https://www.linkedin.com/in/fernandoors)
 
